@@ -1,0 +1,7 @@
+D:\Real Projects\AHTraders\AHtraders\obj\Release\net8.0\PubTmp\Out\AHtraders.exe
+D:\Real Projects\AHTraders\AHtraders\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Real Projects\AHTraders\AHtraders\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Real Projects\AHTraders\AHtraders\obj\Release\net8.0\PubTmp\Out\AHtraders.dll
+D:\Real Projects\AHTraders\AHtraders\obj\Release\net8.0\PubTmp\Out\AHtraders.deps.json
+D:\Real Projects\AHTraders\AHtraders\obj\Release\net8.0\PubTmp\Out\AHtraders.runtimeconfig.json
+D:\Real Projects\AHTraders\AHtraders\obj\Release\net8.0\PubTmp\Out\AHtraders.pdb

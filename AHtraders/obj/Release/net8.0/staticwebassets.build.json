@@ -1,0 +1,1361 @@
+{
+  "Version": 1,
+  "Hash": "nKfQAeY77MNNxmKADI0aLkHTXO39mkvp5Nk0mN4XFZw=",
+  "Source": "AHtraders",
+  "BasePath": "_content/AHtraders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AHtraders\\wwwroot",
+      "Source": "AHtraders",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\bundle\\AHtraders.styles.css",
+      "SourceId": "AHtraders",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "AHtraders#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "atxt8rwpc7",
+      "Integrity": "khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\bundle\\AHtraders.styles.css"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\AHtraders.bundle.scp.css",
+      "SourceId": "AHtraders",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "AHtraders#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "atxt8rwpc7",
+      "Integrity": "khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\AHtraders.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.css",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.js",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmurchi88l",
+      "Integrity": "N5xGsdVYrdiKuC/b/8R55YyefjEmQyvqYAjMGqSCdiE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\favicon.png",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\global-reach.png",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "Images/global-reach#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bsrzqvbta0",
+      "Integrity": "a50aw4OK+9sgn2wU0TSzyQgimbYCIn8lCiOTpUvcnp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\global-reach.png"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\idli-rice.png",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "Images/idli-rice#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ua6lbcaktb",
+      "Integrity": "2rH6d140f/ucM1KwD47k7xtaugLBJhG4zYmvmmO7DUI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\idli-rice.png"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\matta-rice.png",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "Images/matta-rice#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zmi2ozjui4",
+      "Integrity": "2/6Yk8AbRswVv388nlIfMlKw6id7qx3rbeJr0T1P2hA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\matta-rice.png"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\premium-quality.png",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "Images/premium-quality#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kdvr7s4tuk",
+      "Integrity": "mK7YASHkvwU06vfnrUaGSrgV2ygdpE3Nk14d8OGt/ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\premium-quality.png"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\sona-masoori.png",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "Images/sona-masoori#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "joumpoyh7f",
+      "Integrity": "072FlzlUtdQiLcQ4qGQDaLYTrEZcaQxGnvGp+EMv5cA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\sona-masoori.png"
+    },
+    {
+      "Identity": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\timeless-tradition.png",
+      "SourceId": "AHtraders",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\",
+      "BasePath": "_content/AHtraders",
+      "RelativePath": "Images/timeless-tradition#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b813objsj3",
+      "Integrity": "BYMlLksvVtmBT8c84gxNzqMgNr6QvbKHL9bG0oDMS0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\timeless-tradition.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "AHtraders.atxt8rwpc7.bundle.scp.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\AHtraders.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Apr 2026 05:44:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atxt8rwpc7"
+        },
+        {
+          "Name": "label",
+          "Value": "AHtraders.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o="
+        }
+      ]
+    },
+    {
+      "Route": "AHtraders.atxt8rwpc7.styles.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\bundle\\AHtraders.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Apr 2026 05:44:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atxt8rwpc7"
+        },
+        {
+          "Name": "label",
+          "Value": "AHtraders.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o="
+        }
+      ]
+    },
+    {
+      "Route": "AHtraders.bundle.scp.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\AHtraders.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Apr 2026 05:44:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o="
+        }
+      ]
+    },
+    {
+      "Route": "AHtraders.styles.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\bundle\\AHtraders.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Apr 2026 05:44:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-khtwrpXp+UbKu5mU2eBPC+TnYytJowAnSt3SD2Cg/9o="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.hmurchi88l.js",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5xGsdVYrdiKuC/b/8R55YyefjEmQyvqYAjMGqSCdiE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 17:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmurchi88l"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5xGsdVYrdiKuC/b/8R55YyefjEmQyvqYAjMGqSCdiE="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5xGsdVYrdiKuC/b/8R55YyefjEmQyvqYAjMGqSCdiE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 17:18:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5xGsdVYrdiKuC/b/8R55YyefjEmQyvqYAjMGqSCdiE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 13:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/global-reach.bsrzqvbta0.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\global-reach.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2498799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a50aw4OK+9sgn2wU0TSzyQgimbYCIn8lCiOTpUvcnp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:33:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bsrzqvbta0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/global-reach.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a50aw4OK+9sgn2wU0TSzyQgimbYCIn8lCiOTpUvcnp4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/global-reach.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\global-reach.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2498799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a50aw4OK+9sgn2wU0TSzyQgimbYCIn8lCiOTpUvcnp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:33:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a50aw4OK+9sgn2wU0TSzyQgimbYCIn8lCiOTpUvcnp4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/idli-rice.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\idli-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2212904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rH6d140f/ucM1KwD47k7xtaugLBJhG4zYmvmmO7DUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 14:14:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rH6d140f/ucM1KwD47k7xtaugLBJhG4zYmvmmO7DUI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/idli-rice.ua6lbcaktb.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\idli-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2212904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rH6d140f/ucM1KwD47k7xtaugLBJhG4zYmvmmO7DUI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 14:14:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ua6lbcaktb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/idli-rice.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rH6d140f/ucM1KwD47k7xtaugLBJhG4zYmvmmO7DUI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/matta-rice.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\matta-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2830781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/6Yk8AbRswVv388nlIfMlKw6id7qx3rbeJr0T1P2hA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:27:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/6Yk8AbRswVv388nlIfMlKw6id7qx3rbeJr0T1P2hA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/matta-rice.zmi2ozjui4.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\matta-rice.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2830781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/6Yk8AbRswVv388nlIfMlKw6id7qx3rbeJr0T1P2hA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:27:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmi2ozjui4"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/matta-rice.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/6Yk8AbRswVv388nlIfMlKw6id7qx3rbeJr0T1P2hA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/premium-quality.kdvr7s4tuk.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\premium-quality.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2661587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mK7YASHkvwU06vfnrUaGSrgV2ygdpE3Nk14d8OGt/ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:30:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kdvr7s4tuk"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/premium-quality.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mK7YASHkvwU06vfnrUaGSrgV2ygdpE3Nk14d8OGt/ug="
+        }
+      ]
+    },
+    {
+      "Route": "Images/premium-quality.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\premium-quality.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2661587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mK7YASHkvwU06vfnrUaGSrgV2ygdpE3Nk14d8OGt/ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:30:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mK7YASHkvwU06vfnrUaGSrgV2ygdpE3Nk14d8OGt/ug="
+        }
+      ]
+    },
+    {
+      "Route": "Images/sona-masoori.joumpoyh7f.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\sona-masoori.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2167135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"072FlzlUtdQiLcQ4qGQDaLYTrEZcaQxGnvGp+EMv5cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 14:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "joumpoyh7f"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/sona-masoori.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-072FlzlUtdQiLcQ4qGQDaLYTrEZcaQxGnvGp+EMv5cA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/sona-masoori.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\sona-masoori.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2167135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"072FlzlUtdQiLcQ4qGQDaLYTrEZcaQxGnvGp+EMv5cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 14:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-072FlzlUtdQiLcQ4qGQDaLYTrEZcaQxGnvGp+EMv5cA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/timeless-tradition.b813objsj3.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\timeless-tradition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BYMlLksvVtmBT8c84gxNzqMgNr6QvbKHL9bG0oDMS0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b813objsj3"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/timeless-tradition.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BYMlLksvVtmBT8c84gxNzqMgNr6QvbKHL9bG0oDMS0M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/timeless-tradition.png",
+      "AssetFile": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\timeless-tradition.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BYMlLksvVtmBT8c84gxNzqMgNr6QvbKHL9bG0oDMS0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Apr 2026 15:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BYMlLksvVtmBT8c84gxNzqMgNr6QvbKHL9bG0oDMS0M="
+        }
+      ]
+    }
+  ]
+}

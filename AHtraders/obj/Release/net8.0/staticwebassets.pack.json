@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\AHtraders.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AHtraders.atxt8rwpc7.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\global-reach.png",
+      "PackagePath": "staticwebassets\\Images\\global-reach.png"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\idli-rice.png",
+      "PackagePath": "staticwebassets\\Images\\idli-rice.png"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\matta-rice.png",
+      "PackagePath": "staticwebassets\\Images\\matta-rice.png"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\premium-quality.png",
+      "PackagePath": "staticwebassets\\Images\\premium-quality.png"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\sona-masoori.png",
+      "PackagePath": "staticwebassets\\Images\\sona-masoori.png"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\Images\\timeless-tradition.png",
+      "PackagePath": "staticwebassets\\Images\\timeless-tradition.png"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Real Projects\\AHTraders\\AHtraders\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.AHtraders.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.AHtraders.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.AHtraders.props",
+      "PackagePath": "build\\AHtraders.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AHtraders.props",
+      "PackagePath": "buildMultiTargeting\\AHtraders.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.AHtraders.props",
+      "PackagePath": "buildTransitive\\AHtraders.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
